@@ -1,0 +1,2 @@
+# Near-By-Shops
+Project involves developing an Android app with Firebase as the backend, which serves as a platform connecting consumers with local shops. The app displays discounts, benefiting both consumers and businesses by saving time and money for users while enabling effective product promotion for businesses. 
